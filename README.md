@@ -29,7 +29,8 @@ As a student developer, I faced several hurdles in deploying this project on com
 
 For these reasons, the project remains undeployed. However, a **video demonstration** is included in this repository, showcasing its functionality with both small and large datasets.
 
-https://github.com/user-attachments/assets/c9bed227-ba03-45d3-aa34-31a9b5f58a55
+[Video](https://github.com/user-attachments/assets/c9bed227-ba03-45d3-aa34-31a9b5f58a55)
+
 ---
 
 
